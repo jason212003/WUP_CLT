@@ -109,6 +109,9 @@ p + ggtitle("n = 9") +
 print(paste('mean = ', mean(my1000$k3),' sd = ',sd(my1000$k3)))
 ```
 
+Take the standard deviation and put it in the data that is from the central limit.The standard deviation shrinks as the number gets higher example 4 is divided by 2, 9 is divided by 3. 16 divided by 4 and so on.
+
+
 
 
 
