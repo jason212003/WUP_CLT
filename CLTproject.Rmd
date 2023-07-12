@@ -180,4 +180,4 @@ p + ggtitle("n = 36") +
 
 print(paste('mean = ', mean(my1000$k6),' sd = ',sd(my1000$k6)))
 ```
-
+We expect 6 and we got `r sd(my1000$k6)`
